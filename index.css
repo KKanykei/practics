@@ -1,0 +1,61 @@
+div {
+    background-color: red;
+}
+
+.block-one {
+    font-family:'Times New Roman', Times, serif;
+    font-size: 20px;
+}
+
+.block-two {
+    color: white;
+}
+
+.block-three {
+    background-color: green;
+}
+
+h2 {
+    color: violet;
+}
+
+p {
+    color: blue;
+}
+
+.block-four {
+    color: orange;
+}
+
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 16px;
+}
+
+#fourId {
+    color: pink;
+    font-size: 32px;
+}
+
+.submit {
+    background-color: blue;
+}
+.reset {
+    background-color: red;
+}
+.submit:hover {
+    background-color: rgb(96, 96, 237);
+}
+.reset:hover {
+    background-color: rgb(233, 81, 81);
+}
+
+.login {
+    color: darkmagenta;
+}
+.password {
+    color: darkgoldenrod;
+}
+.email {
+    color: darkolivegreen;
+}
